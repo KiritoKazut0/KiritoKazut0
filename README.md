@@ -14,8 +14,8 @@
 <tr border="none">
 <td width="50%" align="left">
 
-- 🔭 I am currently a fifth-semester student in the Software 
-- 🌱 I am learning `PHP` whith `Laravel`.
+- 🔭 I am currently a sixth-quarter student in the Software area.
+- 🌱 I am learning `Vue` And `Docker`.
 - 👯 I would like to collaborate on both backend and frontend projects.
 - 🤔 I am looking for opportunities to contribute to open source projects and improve my practical skills.
 - ⚙️ I use daily: `.js`, `.jsx`, `.ts`, `.css`, `.html`.
