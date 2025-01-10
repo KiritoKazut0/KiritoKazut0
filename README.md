@@ -44,11 +44,15 @@
 
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=KiritoKazut0&theme=chartreuse-dark&show_icons=true&count_private=true" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=KiritoKazut0&theme=chartreuse-dark&hide_border=false" /> 
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=KiritoKazut0&theme=chartreuse-dark&hide_border=false" />
+    <br></br>
+   <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KiritoKazut0&layout=compact&exclude_lang=java+r&theme=chartreuse-dark&hide_border=false" />
 </td>
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=KiritoKazut0&theme=chartreuse-dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <img align="center"
+            src="https://api.daily.dev/norbertolpez/ee98497bac234fe4886bf7bd42098d69.png?r=etl" width="350"
+            alt="Norberto López" />
 
   </td>
 </tr>
