@@ -46,7 +46,7 @@
   <br></br>
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=KiritoKazut0&theme=chartreuse-dark&hide_border=false" />
     <br></br>
-   <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KiritoKazut0&layout=compact&exclude_lang=java+r&theme=chartreuse-dark&hide_border=false" />
+   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KiritoKazut0&layout=compact&card_width=405&exclude_lang=java+r&theme=chartreuse-dark&hide_border=false" />
 </td>
 <td width="50%" align="center">
 
