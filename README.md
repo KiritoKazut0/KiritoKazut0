@@ -71,7 +71,7 @@
 
  <p align="center">
 ❤️
-<a href="norbertolopez291@gmail.com" > <img align="center" src="https://raw.githubusercontent.com/ashu-guo/ashu-guo/master/assets/gmail.svg" height="26" width="36" /></a> 
+<a href="mailto:norbertolopez291@gmail.com"" > <img align="center" src="https://raw.githubusercontent.com/ashu-guo/ashu-guo/master/assets/gmail.svg" height="26" width="36" /></a> 
 <a href="https://www.linkedin.com/in/norberto-lopez-889272196" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
 <a href="https://www.facebook.com/share/1BPiSHY1Um/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jaivardhan.bhola" height="30" width="40" /></a>
 <a href="https://www.instagram.com/kirito7231?igsh=MW45cDlzbW5idTBpNQ==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
