@@ -51,7 +51,7 @@
 <td width="50%" align="center">
 
   <img align="center"
-            src="https://api.daily.dev/norbertolpez/ee98497bac234fe4886bf7bd42098d69.png?r=etl" width="350"
+            src="https://i.imgur.com/IEEJBKY_d.jpeg?maxwidth=520&shape=thumb&fidelity=high" width="450"
             alt="Norberto López" />
 
   </td>
