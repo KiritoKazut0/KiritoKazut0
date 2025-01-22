@@ -15,7 +15,7 @@
 <td width="50%" align="left">
 
 - 🔭 I am currently a sixth-quarter student in Software.
-- 🌱 I am learning `Vue` And `Docker`.
+- 🌱 I am learning `Nestjs` And `Docker`.
 - 👯 I would like to collaborate on both backend and frontend projects.
 - 🤔 I am looking for opportunities to contribute to open source projects and improve my practical skills.
 - ⚙️ I use daily: `.js`, `.jsx`, `.ts`, `.css`, `.html`.
