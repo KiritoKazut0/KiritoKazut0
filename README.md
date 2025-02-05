@@ -15,7 +15,7 @@
 <td width="50%" align="left">
 
 - 🔭 I am currently a sixth-quarter student in Software.
-- 🌱 I am learning `Nestjs` And `Docker`.
+- 🌱 I am learning `Nestjs` And `Laravel`.
 - 👯 I would like to collaborate on both backend and frontend projects.
 - 🤔 I am looking for opportunities to contribute to open source projects and improve my practical skills.
 - ⚙️ I use daily: `.js`, `.jsx`, `.ts`, `.css`, `.html`.
@@ -32,7 +32,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,js,ts,nodejs,react,mongodb,mysql,sequelize,express,nestjs,html,css,materialui,styledcomponents,aws,rabbitmq,graphql,docker"/>
+    <img src="https://skillicons.dev/icons?i=github,js,ts,nodejs,react,mongodb,mysql,sequelize,express,nestjs,html,css,materialui,styledcomponents,aws,rabbitmq,graphql,docker,laravel,php,git"/>
   </a>
 </p>
 
